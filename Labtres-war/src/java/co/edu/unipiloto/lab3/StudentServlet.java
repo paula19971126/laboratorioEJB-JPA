@@ -19,7 +19,7 @@ import co.edu.unipiloto.lab3.session.EstudianteDaoLocal;
 
 /**
  *
- * @author rafae
+ * @author paula
  */
 @WebServlet(name = "StudentServlet", urlPatterns = {"/StudentServlet"})
 public class StudentServlet extends HttpServlet {

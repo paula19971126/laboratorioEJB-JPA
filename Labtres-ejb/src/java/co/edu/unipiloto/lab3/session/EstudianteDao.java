@@ -13,7 +13,7 @@ import javax.persistence.PersistenceContext;
 
 /**
  *
- * @author rafe
+ * @author paula
  */
 @Stateless
 public class EstudianteDao implements EstudianteDaoLocal {

@@ -1,7 +1,7 @@
 <%-- 
     Document   : studentinfo
     Created on : 28/09/2020, 2:31:26 PM
-    Author     : rafae
+    Author     : paula
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

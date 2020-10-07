@@ -11,7 +11,7 @@ import javax.ejb.Local;
 
 /**
  *
- * @author rafae
+ * @author paula
  */
 @Local
 public interface CursoFacadeLocal {
